@@ -17,7 +17,7 @@ const Login = () => {
       password : Yup.string().min(6,"password is to short").required("password is required"),
     }),
     onSubmit: values => {
-       notify("success" , "you have successfully logged in");
+       notify("success" , "you logged in successfully");
        formik.resetForm()               
     },
   });
