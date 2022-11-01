@@ -1,5 +1,5 @@
 # Registration-Form
-react-Registration-Form ( use formik and tailwind )
+react-Registration-Form ( use Formik and tailwind )
 
 
 # Screenshots
